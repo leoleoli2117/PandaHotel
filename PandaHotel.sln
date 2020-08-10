@@ -8,6 +8,7 @@ EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotelFrontOffice", "HotelFrontOffice\", "{F55C3E64-3C62-4C62-88EB-C00E8657FE08}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		ProjectReferences = "{91e90b67-7917-42b2-bee3-4b734244380c}|HotelClasses.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_60404"
 		Debug.AspNetCompiler.PhysicalPath = "HotelFrontOffice\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60404\"
@@ -23,6 +24,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotelFrontOffice", "HotelFr
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "60404"
+		SlnRelativePath = "HotelFrontOffice\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
