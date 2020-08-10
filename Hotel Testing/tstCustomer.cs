@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Hotel_Testing
 {
     [TestClass]
-    public class UnitTest1
+    public class tstCustomer
     {
         [TestMethod]
         public void TestMethod1()
